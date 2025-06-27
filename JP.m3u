@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png", NHK 総合
+#EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK 総合
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png", NHK 教育
+#EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK 教育
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+#EXTINF:-1 group-title="Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日
+#EXTINF:-1 group-title="Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1024px-TV_Tokyo_logo_2023.svg.png", テレビ東京
+#EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1024px-TV_Tokyo_logo_2023.svg.png", テレビ東京
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
 http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 
 #BS
-#EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png", NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -38,7 +38,7 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:2
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png", BS TBS
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS テレビ東
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS テレ東
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/BSフジ.png", BS フジ
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -50,9 +50,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=06&b
 
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBS チャンネル 1
-https://luong.utako.moe/tbsch1/index.m3u8
+http://luong.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
-https://luong.utako.moe/tbsch2/index.m3u8
+http://luong.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
 
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
