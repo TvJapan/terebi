@@ -38,21 +38,21 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:2
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png", BS TBS
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png", BS テレ東
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/BS_TV_Tokyo_&28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_&28Japanese%29_2023.svg.png", BS テレ東
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/BSフジ.png", BS フジ
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="ntvnews24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/1600px-News24.svg.png", 日テレNEWS 24
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS" tvg-id="tbs_news" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/TBS_News.png", TBS NEWS
+#EXTINF:-1 group-title="BS" tvg-id="tbsnews.jp" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/TBS_News.png", TBS NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=06&bind=0&uin=159413&playseek=0
 
 
 #CS
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBS チャンネル 1
-http://luong.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
-http://luong.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbschannel1.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png", TBS チャンネル 1
+http://vthanh.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbschannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
+http://vthanh.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
 
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
