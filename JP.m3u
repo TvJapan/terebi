@@ -24,10 +24,10 @@ http://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
+#EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://vthanh.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
-http://vthanh.utako.moe/BS12/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
+http://vthanh.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="at-x.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg", グリーンチャンネル
@@ -58,11 +58,11 @@ http://vthanh.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbschannel2.jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
 http://vthanh.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
-
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
-
+http://vthanh.utako.moe/fuji one/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fujitvtwo" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
+http://vthanh.utako.moe/fuji two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=06&bind=0&uin=159413&playseek=0
+http://vthanh.utako.moe/fuji next/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
 
@@ -77,6 +77,6 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="CS" tvg-id="musicon" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/MUSIC%20ON!%20TV.png", MUSIC ON! TV（エムオン!）
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=06&bind=0&uin=159413&playseek=0
+http://vthanh.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
