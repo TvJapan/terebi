@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK 総合
-https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8bda-e92ec4c9b986/master.m3u8
+https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4c9b986/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK 教育
 https://zhx-stream.shiku.cloud/iptv/master_stream/8cd04f84-a8f2-4071-adff-1a67304b29f3/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", 日本テレビ
@@ -9,7 +9,7 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/1fd0f40f-7983-474c-82a3-e4687f
 #EXTINF:-1 group-title="Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
 https://zhx-stream.shiku.cloud/iptv/master_stream/110e0cd6-5e95-4b12-b466-992ae05d83e3/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ
-https://mt01.utako.moe/Fuji_TV/index.m3u8
+https://zhx-stream.shiku.cloud/iptv/master_stream/d2a212fb-6ef1-4b20-822e-8e1c124432e3/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日
 https://mt01.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/1024px-TV_Tokyo_logo_2023.svg.png", テレビ東京
@@ -23,7 +23,7 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/57523bcd-3fef-496b-b45d-4670f4
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 https://zhx-stream.shiku.cloud/iptv/master_stream/a7d52bbb-d7f1-431f-b8b0-e9a7eb3c8dfe/master.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K
-https://zhx-stream.shiku.cloud/iptv/master_stream/af448f64-b7b7-4399-8d4b-6e53e01313f1/master.m3u8
+https://zhx-stream.shiku.cloud/iptv/master_stream/af448f64-b7b7-44e3-9718-19ee961d1db7/master.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 https://mt01.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
@@ -80,6 +80,7 @@ https://ca01.utako.moe/musicon/index.m3u8
 https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
