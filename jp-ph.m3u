@@ -44,82 +44,83 @@ https://epg.freejptv.com/ph.php?isp=1&id=bs07
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs10-star-channel_jp.png", BS10プレミアム  
 https://epg.freejptv.com/ph.php?isp=1&id=bs08
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png", J SPORTS 1
-https://epg.freejptv.com/ph.php?isp=9&id=bs18
+https://epg.freejptv.com/ph.php?isp=1&id=bs18
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png", J SPORTS 2  
-https://epg.freejptv.com/ph.php?isp=9&id=bs19
+https://epg.freejptv.com/ph.php?isp=1&id=bs19
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png", J SPORTS 3 
-https://epg.freejptv.com/ph.php?isp=9&id=bs21
+https://epg.freejptv.com/ph.php?isp=1&id=bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
-https://epg.freejptv.com/ph.php?isp=9&id=bs22
+https://epg.freejptv.com/ph.php?isp=1&id=bs22
 #EXTINF:-1 group-title="BS" tvg-id="space_shower" tvg-logo="https://i.imgur.com/PjjkT9P.png", スペースシャワーtv
-https://epg.freejptv.com/ph.php?isp=9&id=bs26
+https://epg.freejptv.com/ph.php?isp=1&id=bs26
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png", J:COM BS
-https://epg.freejptv.com/ph.php?isp=9&id=bs31
+https://epg.freejptv.com/ph.php?isp=1&id=bs31
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/640px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg", スカイA
-https://epg.freejptv.com/ph.php?isp=9&id=cs01
+https://epg.freejptv.com/ph.php?isp=1&id=cs01
 #EXTINF:-1 group-title="CS" tvg-id="gtasu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/619px-Nittele_G%2B_logo.svg.png", 日テレジータス
-https://epg.freejptv.com/ph.php?isp=9&id=cs02
+https://epg.freejptv.com/ph.php?isp=1&id=cs02
 #EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://i.imgur.com/01Jsa2Z.png", ゴルフネットワーク
-https://epg.freejptv.com/ph.php?isp=9&id=cs03
+https://epg.freejptv.com/ph.php?isp=1&id=cs03
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://i.imgur.com/lcwDgKU.png", 時代劇専門チャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs04
+https://epg.freejptv.com/ph.php?isp=1&id=cs04
 #EXTINF:-1 group-title="CS" tvg-id="homedrama_channel" tvg-logo="https://i.imgur.com/iNkKh7w.png", ホームドラマチャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs05
+https://epg.freejptv.com/ph.php?isp=1&id=cs05
 #EXTINF:-1 group-title="CS" tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png", ミュージック・ジャパンTV
-https://epg.freejptv.com/ph.php?isp=9&id=cs06
+https://epg.freejptv.com/ph.php?isp=1&id=cs06
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/351.png", キッズステーション
-https://epg.freejptv.com/ph.php?isp=9&id=cs07
+https://epg.freejptv.com/ph.php?isp=1&id=cs07
 #EXTINF:-1 group-title="CS" tvg-id="discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png", ディスカバリーチャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs08
+https://epg.freejptv.com/ph.php?isp=1&id=cs08
 #EXTINF:-1 group-title="CS" tvg-id="historych" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/416px-History_%282021%29.svg.png", ヒストリーチャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs09
+https://epg.freejptv.com/ph.php?isp=1&id=cs09
 #EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/640px-National-Geographic-Logo.svg.png", NATIONAL GEOGRAPHIC
-https://epg.freejptv.com/ph.php?isp=9&id=cs10
+https://epg.freejptv.com/ph.php?isp=1&id=cs10
 #EXTINF:-1 group-title="CS" tvg-id="tabi_ch" tvg-logo="https://i.imgur.com/JBePECx.png", 旅チャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs12
+https://epg.freejptv.com/ph.php?isp=1&id=cs12
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://i.imgur.com/7VcFGkx.png", 歌謡ポップスチャンネル
-https://epg.freejptv.com/ph.php?isp=9&id=cs13
+https://epg.freejptv.com/ph.php?isp=1&id=cs13
 #EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://i.imgur.com/3OTLJpi.png", ムービープラス
-https://epg.freejptv.com/ph.php?isp=9&id=cs14
+https://epg.freejptv.com/ph.php?isp=1&id=cs14
 #EXTINF:-1 group-title="CS" tvg-id="bbcnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png", BBC NEWS
-https://epg.freejptv.com/ph.php?isp=9&id=cs15
+https://epg.freejptv.com/ph.php?isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://i.imgur.com/Ft6wEdO.png", CNN J
-https://epg.freejptv.com/ph.php?isp=9&id=cs16
+https://epg.freejptv.com/ph.php?isp=1&id=cs16
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/640px-GAORA_SPORTS_logo.svg.png", GAORA
-https://epg.freejptv.com/ph.php?isp=9&id=cs17
+https://epg.freejptv.com/ph.php?isp=1&id=cs17
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
-https://epg.freejptv.com/ph.php?isp=9&id=cs18
+https://epg.freejptv.com/ph.php?isp=1&id=cs18
 #EXTINF:-1 group-title="CS" tvg-id="lala_tv" tvg-logo="https://i.imgur.com/APBty36.png", LaLa TV
-https://epg.freejptv.com/ph.php?isp=9&id=cs19 
+https://epg.freejptv.com/ph.php?isp=1&id=cs19 
 #EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-logo="https://i.imgur.com/Azdf7m6.png", ファミリー劇場
-https://epg.freejptv.com/ph.php?isp=9&id=cs20
+https://epg.freejptv.com/ph.php?isp=1&id=cs20
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/mmpjpu2.png", MONDO TV
-https://epg.freejptv.com/ph.php?isp=9&id=cs21 
+https://epg.freejptv.com/ph.php?isp=1&id=cs21 
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://i.imgur.com/0ALvy3B.png", 衛星劇場
-https://epg.freejptv.com/ph.php?isp=9&id=cs22
+https://epg.freejptv.com/ph.php?isp=1&id=cs22
 #EXTINF:-1 group-title="CS" tvg-id="disneyjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/800px-Disney_Junior_2019_logo.png", ディズニージュニア
-https://epg.freejptv.com/ph.php?isp=9&id=cs23
+https://epg.freejptv.com/ph.php?isp=1&id=cs23
 #EXTINF:-1 group-title="CS" tvg-id="animalplanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png", アニマルプラネット
-https://epg.freejptv.com/ph.php?isp=9&id=cs24
+https://epg.freejptv.com/ph.php?isp=1&id=cs24
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", カートゥーン ネットワーク 海外アニメ国内アニメ
-https://epg.freejptv.com/ph.php?isp=9&id=cs25
+https://epg.freejptv.com/ph.php?isp=1&id=cs25
 #EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://i.imgur.com/j95aeSA.png", フジテレビNEXT ライブ・プレミアム
-https://epg.freejptv.com/ph.php?isp=9&id=cs26
+https://epg.freejptv.com/ph.php?isp=1&id=cs26
 #EXTINF:-1 group-title="CS" tvg-id="takarazuka" tvg-logo="https://i.imgur.com/Al1A8t2.png", タカラヅカ・スカイ・ステージ
-https://epg.freejptv.com/ph.php?isp=9&id=cs28
+https://epg.freejptv.com/ph.php?isp=2&id=cs28
 #EXTINF:-1 group-title="CS" tvg-id="ginga_channel" tvg-logo="https://i.imgur.com/zfvyspc.png", チャンネル銀河
-https://epg.freejptv.com/ph.php?isp=9&id=cs29
+https://epg.freejptv.com/ph.php?isp=2&id=cs29
 #EXTINF:-1 group-title="CS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/PzwtC9K.png", 日本映画専門チャンネル  
-https://epg.freejptv.com/ph.php?isp=9&id=bs23
+https://epg.freejptv.com/ph.php?isp=1&id=bs23
 #EXTINF:-1 group-title="CS" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", ディズニー・チャンネル
 https://epg.freejptv.com/ph.php?isp=1&id=bs24
 #EXTINF:-1 group-title="CS" tvg-id="fishing" tvg-logo="https://i.imgur.com/qX6nNOF.png", 釣りビジョン  
-https://epg.freejptv.com/ph.php?isp=9&id=bs25
+https://epg.freejptv.com/ph.php?isp=1&id=bs25
 #EXTINF:-1 group-title="CS" tvg-id="toeich" tvg-logo="https://i.imgur.com/MRSlSvm.png", 東映チャンネル 
-https://epg.freejptv.com/ph.php?isp=9&id=cs27
+https://epg.freejptv.com/ph.php?isp=1&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="greenchannel" tvg-logo="https://i.imgur.com/sD3z8j7.png", グリーンチャンネル
 https://epg.freejptv.com/ph.php?isp=1&id=bs14
+
 
 
 
