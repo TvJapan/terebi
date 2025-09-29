@@ -54,7 +54,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs22
 #EXTINF:-1 group-title="BS" tvg-id="space_shower" tvg-logo="https://i.imgur.com/PjjkT9P.png", スペースシャワーtv
 https://proxy.utako.moe/ph.php?&isp=1&id=bs26
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png", J:COM BS
-https://proxy.utako.moe/ph.php?&isp=1&id=bs31
+https://proxy.utako.moe/ph.php?&isp=2&id=bs31
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg/640px-%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg", スカイA
 https://proxy.utako.moe/ph.php?&isp=1&id=cs01
@@ -120,6 +120,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs25
 https://proxy.utako.moe/ph.php?&isp=1&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="greenchannel" tvg-logo="https://i.imgur.com/sD3z8j7.png", グリーンチャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+
 
 
 
