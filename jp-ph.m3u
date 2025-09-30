@@ -51,7 +51,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs19
 https://proxy.utako.moe/ph.php?&isp=1&id=bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
 https://proxy.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="BS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shawer_jp.png", スペースシャワーtv
+#EXTINF:-1 group-title="BS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", スペースシャワーtv
 https://proxy.utako.moe/ph.php?&isp=1&id=bs26
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png", J:COM BS
 https://proxy.utako.moe/ph.php?&isp=2&id=bs31
@@ -120,6 +120,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs25
 https://proxy.utako.moe/ph.php?&isp=1&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.png", グリーンチャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+
 
 
 
