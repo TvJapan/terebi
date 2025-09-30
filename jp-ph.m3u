@@ -51,7 +51,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs19
 https://proxy.utako.moe/ph.php?&isp=1&id=bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
 https://proxy.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="BS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", スペースシャワーtv
+#EXTINF:-1 group-title="BS" tvg-id="space_shower_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", スペースシャワーtv
 https://proxy.utako.moe/ph.php?&isp=1&id=bs26
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png", J:COM BS
 https://proxy.utako.moe/ph.php?&isp=2&id=bs31
@@ -64,7 +64,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs02
 https://proxy.utako.moe/ph.php?&isp=1&id=cs03
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", 時代劇専門チャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="CS" tvg-id="homedrama_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homedorama-channelpng-jp.png", ホームドラマチャンネル
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-dorama-channelpng-jp.png", ホームドラマチャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=cs05
 #EXTINF:-1 group-title="CS" tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", ミュージック・ジャパンTV
 https://proxy.utako.moe/ph.php?&isp=1&id=cs06
@@ -120,6 +120,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs25
 https://proxy.utako.moe/ph.php?&isp=1&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.png", グリーンチャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+
 
 
 
