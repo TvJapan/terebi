@@ -12,7 +12,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=gd06
 https://proxy.utako.moe/ph.php?&isp=1&id=gd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_Logo.2023.svg/2560px-TV_Tokyo_Logo.2023.svg.png", テレビ東京
 https://proxy.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_logo.svg.png", フジテレビ 
+#EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ 
 https://proxy.utako.moe/ph.php?&isp=1&id=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX
 https://proxy.utako.moe/ph.php?&isp=1&id=gd08
@@ -112,7 +112,7 @@ https://proxy.utako.moe/ph.php?&isp=2&id=cs28
 https://proxy.utako.moe/ph.php?&isp=2&id=cs29
 #EXTINF:-1 group-title="CS" tvg-id="nihoneiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png", 日本映画専門チャンネル  
 https://proxy.utako.moe/ph.php?&isp=1&id=bs23
-#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg", ディズニー・チャンネル
+#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us_2025.svg", ディズニー・チャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=bs24
 #EXTINF:-1 group-title="CS" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", 釣りビジョン  
 https://proxy.utako.moe/ph.php?&isp=1&id=bs25
@@ -120,6 +120,7 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs25
 https://proxy.utako.moe/ph.php?&isp=1&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.png", グリーンチャンネル
 https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+
 
 
 
