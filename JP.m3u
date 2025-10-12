@@ -57,11 +57,11 @@ https://proxy.utako.moe/ph.php?&isp=6&id=cs11
 https://ca01.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
 https://ca01.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fujitv_one" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
 https://ca01.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fujitv_two" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
 https://ca01.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 https://ca01.utako.moe/fuji_next/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
@@ -74,12 +74,13 @@ https://mt01.utako.moe/wprime/index.m3u8
 https://mt01.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOWシネマ
 https://mt01.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="musicon" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/MUSIC%20ON!%20TV.png", MUSIC ON! TV（エムオン!）
+#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/MUSIC%20ON!%20TV.png", MUSIC ON! TV（エムオン!）
 https://ca01.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
 https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
