@@ -6,13 +6,13 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd01
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo.svg/2560px-Nippon_TV_logo.svg.png", 日テレ
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", テレビ朝日 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo.svg.png", テレビ朝日 
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo.svg/2560px-Tokyo_Broadcasting_System_logo.svg.png", TBS
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", テレ東
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo.svg/2560px-TV_Tokyo_logo.svg.png", テレ東
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", フジテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_logo.svg/1049px-Fuji_TV_logo.svg.png", フジテレビ
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 https://proxyv2.utako.moe/ph.php?&isp=8&id=hdgd08 
@@ -36,11 +36,11 @@ https://mt01.utako.moe/green/index.m3u8
 https://mt01.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS 日テレ
 https://mt01.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/Bs_Asahi_Logo.png", BS 朝日
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/Bs_Asahi_logo.png", BS 朝日
 https://mt01.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS.svg/640px-BS-TBS.svg.png", BS TBS
 https://mt01.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_Logo.svg/640px-BS_TV_Tokyo_Logo.svg.png", BS テレ東
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo.svg/640px-BS_TV_Tokyo_logo.svg.png", BS テレ東
 https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/BSフジ.png", BS フジ
 https://mt01.utako.moe/bsfuji/index.m3u8
@@ -80,6 +80,7 @@ https://ca01.utako.moe/musicon/index.m3u8
 https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
