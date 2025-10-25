@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.svg.png", NHK 総合
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK 総合
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B4-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B-.svg.png", NHK 教育
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B4-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHK 教育
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/gd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2025.svg/2560px-Nippon_TV_logo_2025.svg.png", 日テレ
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/gd03
@@ -121,6 +121,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs25
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs14
+
 
 
 
