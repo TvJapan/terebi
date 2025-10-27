@@ -34,13 +34,13 @@ https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+AT-X
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+green
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png", Animax
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+Animax
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS 日テレ
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS日テレ
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsntv
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS 朝日
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS朝日
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsasahi
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS.svg/640px-BS-TBS.svg.png", BS TBS
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bstbs
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo.svg/640px-BS_TV_Tokyo_logo.svg.png", BS テレ東
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo.svg/640px-BS_TV_Tokyo_logo.svg.png", BSテレ東
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS フジ
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsfuji
@@ -69,17 +69,18 @@ https://ca01.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Neetball",Neetball
 
 #EXTINF:-1 group-title="CS" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime_2025.png", WOWOWプライム
-https://mt01.utako.moe/wprime/index.m3u8
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/wprime
 #EXTINF:-1 group-title="CS" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live_2025.png", WOWOWライブ 
-https://mt01.utako.moe/wlive/index.m3u8
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/wlive
 #EXTINF:-1 group-title="CS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png", WOWOWシネマ
-https://mt01.utako.moe/wcinema/index.m3u8
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/wcinema
 #EXTINF:-1 group-title="CS" tvg-id="music_on_tv",MUSIC ON! TV（エムオン!）
 https://ca01.utako.moe/mon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="japan_news24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
+#EXTINF:-1 group-title="CS" tvg-id="ann_japan_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
