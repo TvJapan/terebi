@@ -2,15 +2,15 @@
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK総合
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHKEテレ
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHK教育(Eテレ)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2025.svg/2560px-Nippon_TV_logo_2025.svg.png", 日テレ
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2025.svg/2560px-Nippon_TV_logo_2025.svg.png", 日本テレビ(日テレ)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png", テレビ朝日 
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png", TBS
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png", テレ東
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png", テレビ東京(テレ東)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_logo_2025.svg/1049px-Fuji_TV_logo_2025.svg.png", フジテレビ 
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd05
@@ -121,6 +121,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs25
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs14
+
 
 
 
