@@ -2,15 +2,15 @@
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.png", NHK 総合
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_G
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B4-.png", NHK Eテレ
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B4-.png", NHK教育(Eテレ)
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_E
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo.svg/2560px-Nippon_TV_logo.svg.png", 日テレ
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo.svg/2560px-Nippon_TV_logo.svg.png", 日本テレビ(日テレ)
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Nippon_TV
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo.svg.png", テレビ朝日 
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TV_Asahi
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo.svg/2560px-Tokyo_Broadcasting_System_logo.svg.png", TBS
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TBS
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo.svg/2560px-TV_Tokyo_logo.svg.png", テレ東
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo.svg/2560px-TV_Tokyo_logo.svg.png", テレビ東京(テレ東)
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TV_Tokyo
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_logo.svg/1049px-Fuji_TV_logo.svg.png", フジテレビ
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Fuji_TV
@@ -80,6 +80,7 @@ https://zhx-player.netgenx.site/stream/stream_mon.m3u8
 https://nl00.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
