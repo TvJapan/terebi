@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.png", NHK 総合
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_G
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+NHK_G
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B4-.png", NHK教育(Eテレ)
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_E
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+NHK_E
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo.svg/2560px-Nippon_TV_logo.svg.png", 日本テレビ(日テレ)
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Nippon_TV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+Nippon_TV
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo.svg.png", テレビ朝日 
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TV_Asahi
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+TV_Asahi
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo.svg/2560px-Tokyo_Broadcasting_System_logo.svg.png", TBS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TBS
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+TBS
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo.svg/2560px-TV_Tokyo_logo.svg.png", テレビ東京(テレ東)
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+TV_Tokyo
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_TV_logo.svg/1049px-Fuji_TV_logo.svg.png", フジテレビ
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Fuji_TV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+TV_Tokyo
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo.svg/1049px-Fuji_Television_logo.svg.png", フジテレビ
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+Fuji_TV
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png", TOKYO MX1
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX1 
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX1 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX2
 
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png", NHK BS
@@ -80,6 +80,7 @@ https://zhx-player.netgenx.site/stream/stream_mon.m3u8
 https://nl00.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
