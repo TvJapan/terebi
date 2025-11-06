@@ -27,7 +27,7 @@ https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo_2025.svg/2560px-BS11_logo_2025.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bs12
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+BS12
 #EXTINF:-1 group-title="BS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo_2025.svg/2560px-AT-X_logo_2025.svg.png", AT-X
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.svg", グリーンチャンネル
@@ -42,7 +42,7 @@ https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsasahi
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstbs
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo.svg/640px-BS_TV_Tokyo_logo.svg.png", BSテレ東
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS フジ
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BSフジ
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thunb/8/8c/Japan_BS_10_logo.svg/250px-Japan_BS_10_logo.svg.png", BS10
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bs10
@@ -75,11 +75,12 @@ https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wlive
 #EXTINF:-1 group-title="CS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png", WOWOWシネマ
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="CS" tvg-id="music_on_tv",MUSIC ON! TV（エムオン!）
-https://zhx-player.netgenx.site/stream/stream_mon.m3u8
+https://nl00.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://nl00.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
