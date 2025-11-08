@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg/1280px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.svg.png", NHK 総合
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd01
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.svg/1280px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B2025-.svg.png", NHK教育(Eテレ)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd02
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png", 日本テレビ(日テレ)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd03
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png", テレビ朝日 
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd06
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png", TBS
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd04
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png", テレビ東京(テレ東)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd07
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png", フジテレビ 
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd05
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29_2025.svg.png", TOKYO MX
-https://proxyvn.utako.moe/ph.php?&isp=2&id=gd08
+https://proxyvn.utako.moe/ph.php?&isp=6&id=gd08
 
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png", NHK BS
@@ -122,6 +122,7 @@ https://proxyvn.utako.moe/ph.php?&isp=6&id=bs25
 https://proxyvn.utako.moe/ph.php?&isp=6&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
 https://proxyvn.utako.moe/ph.php?&isp=6&id=bs14
+
 
 
 
