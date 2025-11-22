@@ -34,19 +34,19 @@ https://nl00.utako.moe/AT-X/index.m3u8
 https://nl00.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png", Animax
 https://nl00.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS日テレ
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/1200px-BS4_logo_2025.svg.png", BS 日テレ
 https://nl00.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS朝日
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS 朝日
 https://nl00.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/640px-BS-TBS_2025.svg.png", BS TBS
 https://nl00.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo_2025.svg/640px-BS_TV_Tokyo_logo_2025.svg.png", BSテレ東
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/BS_TV_Tokyo_logo_2025.svg/640px-BS_TV_Tokyo_logo_2025.svg.png", BS テレ東
 https://nl00.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BSフジ
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS フジ
 https://nl00.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thunb/8/8c/Japan_BS_10_logo_2025.svg/250px-Japan_BS_10_logo_2025.svg.png", BS10
 https://nl00.utako.moe/bs10/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="ntv_news24",日テレNEWS 24
+#EXTINF:-1 group-title="BS" tvg-id="ntv_news24",日テレ NEWS 24
 https://nl00.utako.moe/news24/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="tbs_news",TBS NEWS
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
@@ -80,6 +80,7 @@ https://nl00.utako.moe/musicon/index.m3u8
 https://nl00.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
