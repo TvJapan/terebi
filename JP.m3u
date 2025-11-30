@@ -1,23 +1,23 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK 総合
-https://nl.utako.moe/NHK_G/index.m3u8
+https://nl.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK教育(Eテレ)
-https://nl.utako.moe/NHK_E/index.m3u8
+https://nl.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",日本テレビ(日テレ)
-https://nl.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",テレビ朝日 
-https://nl.utako.moe/TV_Asahi/index.m3u8
+https://nl.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS
-https://nl.utako.moe/TBS/index.m3u8
+https://nl.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",テレビ東京(テレ東)
-https://nl.utako.moe/TV_Tokyo/index.m3u8
+https://nl.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png",フジテレビ
-https://nl.utako.moe/Fuji_TV/index.m3u8
+https://nl.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",TOKYO MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8 
+https://nl.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8 
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",TOKYO MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
+https://nl.utako.moe/Tokyo_MX2/tracks-v1a1/mono.ts.m3u8
 
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
@@ -80,6 +80,7 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png",ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
