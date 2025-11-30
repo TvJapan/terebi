@@ -6,7 +6,7 @@ https://nl.utako.moe/NHK_G/index.m3u8
 https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",日本テレビ(日テレ)
 https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo.svg.png",テレビ朝日 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",テレビ朝日 
 https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS
 https://nl.utako.moe/TBS/index.m3u8
@@ -80,6 +80,7 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png",ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
