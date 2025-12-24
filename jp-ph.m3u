@@ -30,7 +30,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs03
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs04
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2025.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2025.svg.png", BS テレ東
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png", BS フジ
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png", BS フジ
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs06
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1200px-Animax_2025.svg.png", BS アニマックス 
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs15
@@ -42,7 +42,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs12
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs20
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema_2025.png", WOWOW シネマ
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs07
-#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium_jp_2025.png", BS10 プレミアム  
+#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium_jp.png", BS10 プレミアム  
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs08
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.lyngsat.com/logo/tv/jj/js1-jp_2025.png", J SPORTS 1
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs18
@@ -68,9 +68,9 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs03
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-dorama-channelpng-jp_2025.png", ホームドラマチャンネル
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs05
-#EXTINF:-1 group-title="CS" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv_2025.png", ミュージック・ジャパンTV
+#EXTINF:-1 group-title="CS" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musicjapantv_2025.png", ミュージック・ジャパンTV
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs06
-#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/351_2025.png", キッズステーション
+#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidsstation_2025.png", キッズステーション
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs07
 #EXTINF:-1 group-title="CS" tvg-id="discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_logo_2025.svg/640px-Discovery_Channel_-_logo_2025.svg.png", ディスカバリーチャンネル
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs08
@@ -86,7 +86,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs13
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs14
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_%28Alt%29_2025.svg/640px-BBC_News_%28Alt%29_2025.svg.png", BBC NEWS
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us_2025.png", CNN J
+#EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us_2025.png", CNN J
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo_2025.svg/640px-GAORA_SPORTS_logo_2025.svg.png", GAORA
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs17
@@ -108,7 +108,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs24
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs25
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next_2025.png", フジテレビNEXT ライブ・プレミアム
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs26
-#EXTINF:-1 group-title="CS" tvg-id="takarazuka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400×400_2025.png", タカラヅカ・スカイ・ステージ
+#EXTINF:-1 group-title="CS" tvg-id="takarazuka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400×400.png", タカラヅカ・スカイ・ステージ
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs28
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png", チャンネル銀河
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs29
@@ -122,6 +122,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs25
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.png", グリーンチャンネル
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs14
+
 
 
 
