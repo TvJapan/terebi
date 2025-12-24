@@ -46,7 +46,7 @@ https://nl.utako.moe/bstvtokyo/index.m3u8
 https://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thunb/8/8c/Japan_BS_10_logo_2025.svg/250px-Japan_BS_10_logo_2025.svg.png",BS10
 https://nl.utako.moe/bs10/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="ntv_news_24",日テレ NEWS 24
+#EXTINF:-1 group-title="BS" tvg-id="ntv_news24",日テレ NEWS 24
 https://nl.utako.moe/news24/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="tbs_news",TBS NEWS
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
@@ -80,6 +80,7 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2025.svg.png",ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
