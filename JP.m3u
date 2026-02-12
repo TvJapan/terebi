@@ -1,18 +1,18 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef0-011-400x400.png",NHK 総合
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK 総合
 https://nl.utako.moe/NHK_G/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef1-021-400x400.png",NHK教育(Eテレ)
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK教育(Eテレ)
 https://nl.utako.moe/NHK_E/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef2-041-400x400.png",日本テレビ(日テレ)
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",日本テレビ(日テレ)
 https://nl.utako.moe/Nippon_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef5-051-400x400.png",テレビ朝日 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/7fe5-051-1064-400x400.png",テレビ朝日 
 https://nl.utako.moe/TV_Asahi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef3-061-400x400.png",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
 https://nl.utako.moe/TBS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef6-071-400x400.png",テレビ東京(テレ東)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",テレビ東京(テレ東)
 https://nl.utako.moe/TV_Tokyo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7ef4-081-400x400.png",フジテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",フジテレビ
 https://nl.utako.moe/Fuji_TV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/tracks-v1a1/mono.ts.m3u8 
@@ -26,7 +26,7 @@ https://nl.utako.moe/NHK_BS/index.m3u8
 https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
 https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-222-400x400.png",BS12
+#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS12
 https://nl.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="at_x" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",AT-X
 https://nl.utako.moe/AT-X/index.m3u8
@@ -44,7 +44,7 @@ https://nl.utako.moe/bstbs/index.m3u8
 https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS フジ
 https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png",BS10
+#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-110-400x400.png",BS10
 https://nl.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="ntv_news24" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",日テレ NEWS 24
 https://nl.utako.moe/news24/index.m3u8
@@ -80,6 +80,7 @@ https://nl.utako.moe/musicon/index.m3u8
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ann_news_24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo_2026.svg.png",ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
