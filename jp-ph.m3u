@@ -86,7 +86,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC NEWS
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png", CNN J
+#EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNN J
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png", GAORA
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
@@ -122,6 +122,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="CS" tvg-id="green_channel" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png", グリーンチャンネル
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
 
 
 
