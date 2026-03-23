@@ -32,9 +32,9 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png", BS フジ
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="BS" tvg-id="animaxasia.sg@japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png", BS アニマックス 
+#EXTINF:-1 group-title="BS" tvg-id="animaxasia.in" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png", BS アニマックス 
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 group-title="BS" tvg-id="tbsnews.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS NEWS
+#EXTINF:-1 group-title="BS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS NEWS
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png", WOWOW プライム 
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12
@@ -42,7 +42,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="wowowcinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png", WOWOW シネマ
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="BS" tvg-id="starbs10jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-201-400x400.png", BS10 プレミアム  
+#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-201-400x400.png", BS10 プレミアム  
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png", J SPORTS 1
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -54,7 +54,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png", スペースシャワーtv
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="BS" tvg-id="bsshochikutokyujp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png", J:COM BS
+#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png", J:COM BS
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
 #CS
